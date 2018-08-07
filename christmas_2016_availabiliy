@@ -1,0 +1,11 @@
+-- Which houses in Queen Anne were available on Christmas in 2016, and had a "superhost"?
+SELECT DISTINCT(listing_id), name
+FROM da_airbnb.calendar
+JOIN da_airbnb.listings ON calendar.listing_id = listings.id
+WHERE date = '2016-12-25'
+	AND available = 't'
+	AND host_is_superhost = 't'
+	AND neighbourhood = 'Queen Anne'
+	AND property_type = 'House'
+GROUP BY listing_id, date, available, name
+LIMIT 1000
