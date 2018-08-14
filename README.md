@@ -1,6 +1,6 @@
 # AirBNB_SQL_Project
 
-This is a simple project to showcase my SQL skills using a Seattle AirBnb dataset. After loading in the data, [which is publicly available](https://www.kaggle.com/airbnb/seattle), I created my own rating system to classify Air BnB Listings as Positive, Negative, or Neutral. I then grouped and ranked each listing to determine how good or bad (or neutral) they were. At the end I had a little Christmas themed fun practicing other SQL skills.
+This is a simple project to showcase my SQL skills using a Seattle AirBnb dataset. After loading in the data, [which is publicly available](https://www.kaggle.com/airbnb/seattle), I created my own rating system to classify Air BnB listings as positive, negative, or neutral. I then grouped and ranked each listing to determine how good or bad (or neutral) they were. At the end I had a little Christmas themed fun practicing other SQL skills.
 
 ## Table of Contents:
 1. [Loading in Data](https://github.com/lalark/AirBNB_SQL_Project/tree/master/create_table_load_data)
