@@ -4,10 +4,10 @@ This is a simple project to showcase my SQL skills using a Seattle AirBnb datase
 
 ## Table of Contents:
 1. [Loading in Data](https://github.com/lalark/AirBNB_SQL_Project/tree/master/create_table_load_data)
-2. [Identifying Reviews as Positive, Negative, or neutral](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
-3. [Evaluate listings and reviews together with a left join](https://github.com/lalark/AirBNB_SQL_Project/tree/master/join_listings_reviews)
-4. [Grouping the reviews for each listing by quality](https://github.com/lalark/AirBNB_SQL_Project/tree/master/group_review_quality_by_listing)
-5. [Comparing the average rating of each listing to the mean](https://github.com/lalark/AirBNB_SQL_Project/tree/master/rating_variance_from_mean)
+2. [Identifying Reviews as Positive, Negative, or Neutral](https://github.com/lalark/AirBNB_SQL_Project/tree/master/identify_review_quality)
+3. [Evaluating Listings and Reviews Together with a Left Join](https://github.com/lalark/AirBNB_SQL_Project/tree/master/join_listings_reviews)
+4. [Grouping the Reviews for Each Listing by Quality](https://github.com/lalark/AirBNB_SQL_Project/tree/master/group_review_quality_by_listing)
+5. [Comparing the Average Rating of Each Listing to the Mean](https://github.com/lalark/AirBNB_SQL_Project/tree/master/rating_variance_from_mean)
 6. [Seattle Christmas 2016 Availability](https://github.com/lalark/AirBNB_SQL_Project/tree/master/christmas_2016_availabiliy)
 7. [Listings in Even Months](https://github.com/lalark/AirBNB_SQL_Project/tree/master/union_even_months)
 
