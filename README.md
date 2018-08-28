@@ -49,6 +49,7 @@ After creating my queries, I pulled the data into Tableau and [created visualiza
   
 ## Visualizations
 * [Tableau Public Dashboard](https://public.tableau.com/profile/lauren6174#!/vizhome/SeattleAirBnBReviewQualityViz/Dashboard1)
+* [Geography of Review Qualiy Listings](https://public.tableau.com/profile/lauren6174#!/vizhome/SeattleAirBnBReviewQualityVizMap/GeographicDistributionofReviewQuality?publish=yes)
 
 
 ## A Note on my Data:
