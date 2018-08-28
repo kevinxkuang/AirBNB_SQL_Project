@@ -45,6 +45,9 @@ This is a simple project to showcase my SQL skills using a Seattle AirBnb datase
 * Union
   * [Example 1](https://github.com/lalark/AirBNB_SQL_Project/tree/master/union_even_months)
   
+## Visualizations
+* [Tableau Public Dashboard](https://public.tableau.com/profile/lauren6174#!/vizhome/SeattleAirBnBReviewQualityViz/Dashboard1)
+
 
 ## A Note on my Data:
 * I did need to make a few slight alterations to the downloaded dataset in order to properly load:
